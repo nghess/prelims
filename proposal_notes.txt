@@ -23,4 +23,29 @@ attention
 
 environmental motion
 
+visual search
+
 psychophysics/vision science
+
+
+GAP IN KNOWLEDGE:
+Bridging the gap between psychophysics and natural scenes perception
+bring together knowledge of perceptual asymmetries across the visual field with knowledge of gaze-related attentional strategies
+bring together understanding from retinal eccentricity research and gaze-based attention research.
+Extending findings from visual search into motion perception
+
+get 10 more articles:
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+work on unity
+[] get gaze target dot
+[] 
