@@ -11,9 +11,16 @@ attending to a particular feature increases the activation of all neurons that p
 
 
 hypothesis:
-based on feature similarity, if a participant attends to a dot moving in a target direction, chances of a (correct) decision are higher if there are other dots in the FOV
 
-head movement will increase accuracy of responses.
+participant response accuracy will be predicted by the most-recently foveated dot and the proportion of 
+
+
+
+XXXXbased on feature similarity, if a participant attends to a dot moving in a target direction, chances of a (correct) decision are higher if there are other dots in the FOV
+
+XXXXhead movement will increase accuracy of responses.
+
+
 
 
 reading list:
